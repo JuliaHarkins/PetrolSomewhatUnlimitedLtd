@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PetrolSomewhatUnlimitedLtd.Fuel">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAAQAAIAAAAACAAAABBIAQAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Fuel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.FuelInstance">
+    <Position X="5.5" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAABAAAAAAAAAAgBgAAQA=</HashCode>
+      <FileName>FuelInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.Program">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.Pump">
+    <Position X="0.75" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EARAAAAAAAACBAgACAAAAAgAAIAEAAIAAAAAAQAFAgA=</HashCode>
+      <FileName>Pump.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.StationPumps">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAIEAiAASAAAAAgACIACAACAAAAAAAIIIAA=</HashCode>
+      <FileName>StationPumps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.Transaction">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAQAAAAAACAAYAAAAAABABAQAAAACAAAAAgAAQA=</HashCode>
+      <FileName>Transaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.TransactionList">
+    <Position X="8.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAQAAAAAAACAAAABAAAkAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TransactionList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.Vehicle">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAIAAAEAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAEAI=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.VehicleCreation">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>VehicleCreation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.VehiclesLeft">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAAg=</HashCode>
+      <FileName>VehiclesLeft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetrolSomewhatUnlimitedLtd.WaitingList">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAAAAAAAAAAIEAAAABAAACAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>WaitingList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
